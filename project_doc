@@ -2,5 +2,9 @@ Portfolio Website
 
 How is tailwindcss different from component library?
 	It provides classes instead of classes and yopu can make changes to the classes instead of making classes separate and then adding components to it. 
+
+flex
+leading 5 6 8..
+conatiner- at different breakpoints or different screen width it updates it 
 	
 
