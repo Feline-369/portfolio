@@ -6,5 +6,9 @@ How is tailwindcss different from component library?
 flex
 leading 5 6 8..
 conatiner- at different breakpoints or different screen width it updates it 
+
+usestate hook for client modal since no client modal we need to set component for use client
+cms payload??
+
 	
 
